@@ -1,0 +1,21 @@
+{
+  "x": 700,
+  "y": 100,
+  "texture": "Cactus",
+  "anims": [
+    {
+      "key": "walk",
+      "frames": {
+        "key": "Cactus",
+        "config": {
+          "start": 0,
+          "end": 10
+        },
+        "frameRate": 12,
+        "repeat": -1
+      }
+    }
+  ],
+  "group": "Plant",
+  "type": "sprite"
+}
